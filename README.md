@@ -17,10 +17,14 @@ This project models an online gaming platform database, including users, games, 
 - Database views
 
 ## Technologies
-- Oracle SQL
-- Oracle Academy Environment (OAE)
 - Oracle Database
+- Oracle SQL
 - Oracle APEX
+- Oracle Academy Environment (OAE)
+
+## ERD Diagram
+
+![ERD Diagram](ERD_diagram.png)
 
 ## Author
 Anamaria-Rozalia Gherghel
