@@ -1,5 +1,8 @@
-# Online-Gaming-Database
-Database design and implementation project for an online gaming platform, developed for the Database Systems course.
+# Online Gaming Database
+Database Systems project for an online gaming platform, including ERD, relational schema, SQL scripts and Oracle APEX implementation.
+
+## Project Overview
+This project models an online gaming platform database, including users, games, reviews, orders, payments and libraries.
 
 ## Contents
 - Business scenario
@@ -16,6 +19,8 @@ Database design and implementation project for an online gaming platform, develo
 ## Technologies
 - Oracle SQL
 - Oracle Academy Environment (OAE)
+- Oracle Database
+- Oracle APEX
 
 ## Author
 Anamaria-Rozalia Gherghel
